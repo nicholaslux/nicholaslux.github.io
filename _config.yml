@@ -1,5 +1,4 @@
 # --- General options --- #
-
 # url is the full website URL
 # baseurl is the website's URL without the hostname
 
@@ -85,6 +84,7 @@ social-network-links:
 #  steam: deanat78
 #  twitch: yourname
 #  yelp: yourname
+  imdb: nm10227655
 
 # Select which share links to show in posts
 share-links-active:
