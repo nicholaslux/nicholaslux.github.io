@@ -3,6 +3,18 @@
 # set up your website you should go through all these settings and edit them, but after
 # the initial set up you won't need to come back to this file often.
 
+# --- General options --- #
+# url is the full website URL
+# baseurl is the website's URL without the hostname
+
+# If you are building a simple GitHub user page (https://username.github.io) then use these settings:
+#url: "https://nicholaslux.github.io"
+#baseurl: ""
+
+# If you are building a GitHub project page then use these settings:
+url: "http://alex9311.github.io/nicks-jekyll-site"
+baseurl: "/nicks-jekyll-site"
+
 # --- Required options --- #
 
 # Name of website
