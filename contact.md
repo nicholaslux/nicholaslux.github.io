@@ -27,7 +27,7 @@ layout: page
     <img src="../img/rage-talent-agency-logo.jpg" style="width:229px">
   </div>
   <div class="col-xs-8">
-    Rage Talent Agency
+    Rage Talent Agency (Theatrical Agent)
     <br>
     23679 Calabasas Rd #501
     <br>
