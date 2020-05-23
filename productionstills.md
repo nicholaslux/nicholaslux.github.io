@@ -1,6 +1,8 @@
 ---
 layout: page
 images:
+  - image_path: ../img/headshots/IMG_5983.jpg
+  - image_path: ../img/headshots/IMG_5973.jpg
   - image_path: ../img/headshots/d389cf_751e4e31dd764fcc84a1d01e261266fe~mv2_d_5472_3648_s_4_2.jpg
   - image_path: ../img/headshots/IMG_0738.JPG
   - image_path: ../img/headshots/IMG_2388.JPG
@@ -13,7 +15,7 @@ images:
 <ul class="photo-gallery">
   {% for image in page.images %}
     <a data-fancybox="gallery" href="{{ image.image_path }}">
-      <img src="{{ image.image_path }}">
+      <img style="width:100%; padding-bottom:5px;" src="{{ image.image_path }}">
     </a>
   {% endfor %}
 </ul>
