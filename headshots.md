@@ -12,7 +12,7 @@ images:
 <ul class="photo-gallery">
   {% for image in page.images %}
     <a data-fancybox="gallery" href="{{ image.image_path }}">
-      <img style="width:300px;" src="{{ image.image_path }}">
+      <img style="width:300px;padding-bottom:5px;" src="{{ image.image_path }}">
     </a>
   {% endfor %}
 </ul>
