@@ -1,5 +1,7 @@
 ---
 layout: page
+subtitle: Los Angeles-Based Actor, Musician, Singer, and Dancer
+
 ---
 
 <div style="text-align: center" style="padding-bottom: 15px">

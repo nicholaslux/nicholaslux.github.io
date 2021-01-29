@@ -1,5 +1,6 @@
 ---
 layout: page
+subtitle: Los Angeles-Based Actor, Musician, Singer, and Dancer
 images:
   - image_path: ../img/headshots/NL-070_hiRez.jpg
   - image_path: ../img/headshots/NL-002.jpg

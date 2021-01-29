@@ -1,5 +1,6 @@
 ---
 layout: page
+subtitle: Los Angeles-Based Actor, Musician, Singer, and Dancer
 images:
   - image_path: ../img/headshots/IMG_5983.jpg
   - image_path: ../img/headshots/IMG_5973.jpg

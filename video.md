@@ -1,8 +1,9 @@
 ---
 layout: page
+subtitle: Los Angeles-Based Actor, Musician, Singer, and Dancer
 youtube_ids:
-  - id: CLHxChiSaag
   - id: RotGlXa6EUs
+  - id: CLHxChiSaag
   - id: 7K9HalQEyD8
 ---
 
