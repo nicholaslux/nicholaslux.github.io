@@ -2,6 +2,8 @@
 layout: page
 youtube_ids:
   - id: CLHxChiSaag
+  - id: RotGlXa6EUs
+  - id: 7K9HalQEyD8
 ---
 
 {% for youtube_id in page.youtube_ids %}
