@@ -56,13 +56,19 @@ subtitle: Los Angeles-Based Actor, Musician, Singer, and Dancer
     </div>
     <div class="col-md-6">
         <div class="col-md-12">
-          Rage Talent Agency (Theatrical Agent)
+          Haydn Jones, She/Her (Talent Agent)
           <br>
-          23679 Calabasas Rd #501
+          Youth Commercials and Endorsements Division
           <br>
-          Calabasas, CA 91302
+          Los Angeles Office
           <br>
-          818.225.0526
+          750 N. San Vicente Blvd.
+          <br>
+          East Tower | 11th Floor
+          <br>
+          Los Angeles, CA 90069
+          <br>
+          310.859.0625
         </div>
     </div>
 </div>
